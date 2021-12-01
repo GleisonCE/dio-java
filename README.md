@@ -1,2 +1,2 @@
-# dio-java
+# DIO-Java
 Treinamento DIO Java
